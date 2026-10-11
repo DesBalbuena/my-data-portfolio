@@ -1,3 +1,7 @@
 "# My Data Portfolio" 
 "" 
 "My hands-on project from the DataReady Git course." 
+"" 
+"## Contents" 
+"- SQL queries I have written" 
+"- Notes on what I learned" 
